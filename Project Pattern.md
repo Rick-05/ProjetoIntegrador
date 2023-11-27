@@ -39,7 +39,7 @@ Esta seção lista as tecnologias utilizadas no projeto:
 ## [Tecnologias do Projeto](#tabela-de-conteúdos)
 
 As tecnologias utilizadas no projeto final são:
-* [HTML]
+* [HTML](html)
 * [Javascript](#javascript) - Linguagem de programação para web
 * [Cascading Styles Sheets (CSS)](#css) - Linguagem de estilização para web
 

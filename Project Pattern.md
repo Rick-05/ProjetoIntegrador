@@ -39,13 +39,13 @@ Esta seção lista as tecnologias utilizadas no projeto:
 ## [Tecnologias do Projeto](#tabela-de-conteúdos)
 
 As tecnologias utilizadas no projeto final são:
-* [HTML](html)
+* [HTML](#html)
 * [Javascript](#javascript) - Linguagem de programação para web
 * [Cascading Styles Sheets (CSS)](#css) - Linguagem de estilização para web
 
 ### [HTML](#html)
 
-(Descrição HTML)
+HTML (HyperText Markup Language) é a linguagem padrão para criar páginas web. Ele utiliza tags para estruturar e formatar o conteúdo, como textos, imagens e links, sendo interpretado pelos navegadores para exibição na internet.
 
 ### [Javascript](#tabela-de-conteúdos)
 

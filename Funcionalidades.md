@@ -29,7 +29,10 @@ Nessa seção são definidas as funcionalidades que foram escolhidas após as an
 
 As funcionalidades definidas foram:
 
-- função 1;
+- Acessar o site pelo celular e pelo computador;
+- Possibilitar que o usuário acesso os tutorias;
+- Possibilitar que o usuário dê feedbacks sobre os tutoriais;
+- Página minimalista para facilitar a navegação do usuário pelo site.
 
 ## [Proto Personas](#tabela-de-conteúdos)
 

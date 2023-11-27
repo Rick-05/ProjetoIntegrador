@@ -6,6 +6,7 @@ Os casos de uso são utilizados para especificar as tarefas e os atores envolvid
 
 - [Casos de Uso](#casos-de-uso)
   - [UC-01 Visualizar Página Inicial](#uc-01-visualizar-página-inicial)
+  - [UC-02 Feedback do Usuário](#uc-02-feedback-do-usuário)
 
 ## [Casos de Uso](#tabela-de-conteúdos)
 
@@ -76,7 +77,7 @@ Os casos de uso são utilizados para especificar as tarefas e os atores envolvid
     <th>Casos de Uso Relacionados</th>
     <td>
       <ul>
-        <li><a href="#uc-01-visualizar-pagina-inicial">[UC-01] Visualizar Página Incial</a></li>
+        <li><a href="#uc-02-feedback-do-usuário">[UC-02] Feedback do Usuário</a></li>
       </ul>
     </td>
   </tr>
@@ -127,7 +128,7 @@ Os casos de uso são utilizados para especificar as tarefas e os atores envolvid
     <th>Pré-Condições</th>
     <td>
       <ul>
-        <li>O usuário possui uma conta registrada no sistema</li>
+        <li>Não possui pré-condições</li>
       </ul>
     </td>
   </tr>
@@ -136,7 +137,7 @@ Os casos de uso são utilizados para especificar as tarefas e os atores envolvid
     <td>
       <ul>
         <li>O usuário visualiza o conteúdo da página inicial.</li>
-        <li>O usuário pode acessar as funcionalidades da aplicação.</li>
+        <li>O usuário comenta sobre o contéudo de sua escolha.</li>
       </ul>
     </td>
   </tr>
@@ -154,9 +155,7 @@ Os casos de uso são utilizados para especificar as tarefas e os atores envolvid
     <th>Casos de Uso Relacionados</th>
     <td>
       <ul>
-        <li><a href="#uc-02-realizar-login">[UC-02] Realizar Login</a></li>
-        <li><a href="#uc-04-criar-crachas">[UC-04] Criar Crachás</a></li>
-        <li><a href="#uc-05-visualizar-crachas">[UC-05] Visualizar Crachás</a></li>
+        <li><a href="#uc-01-visualizar-página-inicial">[UC-01] Visualizar Página Incial</a></li>
       </ul>
     </td>
   </tr>
@@ -164,7 +163,7 @@ Os casos de uso são utilizados para especificar as tarefas e os atores envolvid
     <th>Notas</th>
     <td>
       <ul>
-        <li>Certificar-se de uma navegação intuitiva e fácil acesso a funcionalidades importantes a partir da página inicial.</li>
+        <li>Certificar-se de que o usuário possa contribuir para melhora do site por meio de comentários.</li>
       </ul>
     </td>
   </tr>

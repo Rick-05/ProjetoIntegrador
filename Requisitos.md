@@ -59,7 +59,6 @@ Esta seção descreve os requisitos específicos relacionados às funcionalidade
    <tr>
       <th>Ator Relacionado</th>
       <td>Sistema</td>
-      <td>Usuário</td>
    </tr>
    <tr>
       <th>Descrição</th>

@@ -9,7 +9,7 @@ Este arquivo lista informações sobre a estrutura e tecnologias utilizadas no p
 - [Desenvolvimento Orientado à Testes (TDD)](#desenvolvimento-orientado-à-testes)
 - [Tecnologias](#tecnologias)
     - [Tecnologias do Projeto](#tecnologias-do-projeto)
-        - [Node.js](#nodejs)
+        - [HTML](#html)
         - [Javascript](#javascript)
         - [CSS](#css)
     - [Desenvolvimento](#Desenvolvimeto)
@@ -43,7 +43,7 @@ As tecnologias utilizadas no projeto final são:
 * [Javascript](#javascript) - Linguagem de programação para web
 * [Cascading Styles Sheets (CSS)](#css) - Linguagem de estilização para web
 
-### [HTML]
+### [HTML](#html)
 
 (Descrição HTML)
 

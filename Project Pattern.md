@@ -63,7 +63,7 @@ As tecnologias utilizadas no desenvolvimento do projeto são:
 * [VS Code](#vs-code) - Editor de código
 * [Git/GitHub](#gitgithub) - Sistema de controle de versão
 * [MySQL Workspace](#mysql-workspace) - Ambiente de desenvolvimento de banco de dados
-* [Draw.io](#drawio) - Ferramenta de criação de diagramas
+* [Lucidchart](#lucidchart) - Ferramenta de criação de diagramas
 * [BR Modelo](#br-modelo) - Ferramenta de criação de modelos de dados
 * [Figma](#figma) - Ferramenta de criação de interfaces
 

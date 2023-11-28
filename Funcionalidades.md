@@ -41,40 +41,39 @@ As funcionalidades definidas foram:
 ![Proto Persona 1]
 
 #### Informações Demográficas e Comportamentos
-
+  - Mora em Ananindeua
+  - Não tem filhos
+  - formado a 1 ano
 #### Pontos de Conflito e Necessidades
-
+  - Não tem tanto acesso a computador
+  - Tem dificuldade com a acesso à internet
 #### Possíveis Funcionalidades e Soluções
-
+  - Encontrar plataformas que vão auxiliar no seu trabalho
 
 ## [Proto Persona 2](#tabela-de-conteúdos)
 
 ![Proto Persona 2]
 
 #### Informações Demográficas e Comportamentos
-
+  - Mora no Marco, em Belém
+  - Solteira
+  - Não tem filhos
 #### Pontos de Conflito e Necessidades
-
+  - Tem acesso a internet e ao celular o tempo todo, execeto quando está no campus
 #### Possíveis Funcionalidades e Soluções
-
+  - Baixar os tutoriais para quando o usuário estiver off-line
 
 ### [Proto Persona 3](#tabela-de-conteúdos)
 
 ![Proto Persona 3]
 
 #### Informações Demográficas e Comportamentos
-
+  - Mora em Nazaré, Belém
+  - Casado
+  - Não possui filhos
 #### Pontos de Conflito e Necessidades
-
+  - Planejamento estratégico de ações
+  - Acompanhar a execução das tarefas e resultados do trabalho
+  - Possui problemas de vista
 #### Possíveis Funcionalidades e Soluções
-
-
-### [Proto Persona 4](#tabela-de-conteúdos)
-
-![Proto Persona 4]
-
-#### Informações Demográficas e Comportamentos
-
-#### Pontos de Conflito e Necessidades
-
-#### Possíveis Funcionalidades e Soluções
+  - Interface minimalista

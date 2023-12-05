@@ -22,15 +22,15 @@ Este arquivo lista informações sobre a estrutura e tecnologias utilizadas no p
 
 # [Estrutura do Projeto](#tabela-de-conteúdos)
 
-...
+![Estrutura do Projeto]
 
 # [Design Pattern](#tabela-de-conteúdos)
 
-(Explicação Breve Sobre o que é)
+![Design Pattern]
 
 # [Desenvolvimento Orientado à Testes](#tabela-de-conteúdos)
 
-(Explicação Breve Sobre o que é)
+![Desenvolvimento Orientado à Testes]
 
 # [Tecnologias](#tabela-de-conteúdos)
 

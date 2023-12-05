@@ -14,7 +14,7 @@ Os casos de uso são utilizados para especificar as tarefas e os atores envolvid
 
 ### [[UC-01] Visualizar Tutoriais](#tabela-de-conteúdos)
 
-![Diagrama de Atividades - UC-01](/Diagrama/Interação%20humano-computador.png "Diagrama de Visualização dos Tutoriais")
+![Diagrama de Atividades - UC-01](/Diagrama/Acessar%20Tutoriais.png "Diagrama de Visualização dos Tutoriais")
 
 <table>
   <tr>
@@ -93,7 +93,7 @@ Os casos de uso são utilizados para especificar as tarefas e os atores envolvid
 
 ### [[UC-02] Feedback do Usuário](#tabela-de-conteúdos)
 
-![Diagrama de Atividades - UC-02](/Diagrama/diagrama%203.png "Diagrama de Comentar")
+![Diagrama de Atividades - UC-02](/Diagrama/Comentario.png "Diagrama de Comentar")
 
 <table>
   <tr>

@@ -10,7 +10,7 @@ Os casos de uso são utilizados para especificar as tarefas e os atores envolvid
 
 ## [Casos de Uso](#tabela-de-conteúdos)
 
-![Diagrama de Casos de Uso](/Diagramas/Diagrama%20em%20branco.png "Diagrama de casos de Uso")
+![Diagrama de Casos de Uso](/Diagramas/Casos%20de%20Uso.png "Diagrama de casos de Uso")
 
 ### [[UC-01] Visualizar Tutoriais](#tabela-de-conteúdos)
 

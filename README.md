@@ -23,8 +23,7 @@ Docentes do IFPA - campus Belém
 
 ## Funcionalidades Principais
 
-- **Recomendações:** Disponibiliza aplicativos que podem ser incorporados em suas aulas.
-- **Tutoriais:** Demonstra como utilizar esses aplicativos, além de dar dicas auxiliares.
+- **Tutoriais:** Demonstrar como utilizar certos aplicativos, além de dar dicas auxiliares.
 
 ## Equipe
 

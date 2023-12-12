@@ -1,4 +1,4 @@
-# ProjetoIntegrador 
+# EduTech
 
 Pensando nas dificuldades enfrentadas por muitos docentes do IFPA - campus Belém ao manejar tecnologias digitais, como o próprio sigaa, nosso projeto trata-se de um site que apresentará tutoriais de aplicativos que podem ser incorporados durante as aulas.
 

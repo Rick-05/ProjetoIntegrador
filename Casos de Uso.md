@@ -14,7 +14,7 @@ Os casos de uso são utilizados para especificar as tarefas e os atores envolvid
 
 ### [[UC-01] Visualizar Tutoriais](#tabela-de-conteúdos)
 
-![Diagrama de Atividades - UC-01](/Diagrama/Acessar%20Tutoriais.png "Diagrama de Visualização dos Tutoriais")
+![Diagrama de Atividades - UC-01](/Diagramas/Acessar%20Tutoriais.png "Diagrama de Visualização dos Tutoriais")
 
 <table>
   <tr>

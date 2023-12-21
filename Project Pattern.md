@@ -3,30 +3,12 @@
 Este arquivo lista informações sobre a estrutura e tecnologias utilizadas no projeto, inclusive no processo de desenvolvimento do mesmo.
 
 # Tabela de Conteúdos
-
-- [Estrutura do Projeto](#estrutura-do-projeto)
-- [Design Pattern](#Design-Pattern)
-- [Desenvolvimento Orientado à Testes (TDD)](#desenvolvimento-orientado-à-testes)
 - [Tecnologias](#tecnologias)
     - [Tecnologias do Projeto](#tecnologias-do-projeto)
-        - Nenhuma no momento.
-    - [Desenvolvimento](#Desenvolvimeto)
-        - [Draw.io](#drawio)
+        - [Lucidchart](#lucidchart)
         - [Wordpress](#wordpress)
         - [Figma](#figma)
           
-# [Estrutura do Projeto](#tabela-de-conteúdos)
-
-![Estrutura do Projeto]
-
-# [Design Pattern](#tabela-de-conteúdos)
-
-![Design Pattern]
-
-# [Desenvolvimento Orientado à Testes](#tabela-de-conteúdos)
-
-![Desenvolvimento Orientado à Testes]
-
 # [Tecnologias](#tabela-de-conteúdos)
 
 Esta seção lista as tecnologias utilizadas no projeto:
@@ -36,7 +18,7 @@ Esta seção lista as tecnologias utilizadas no projeto:
 ## [Desenvolvimeto](#tabela-de-conteúdos)
 
 As tecnologias utilizadas no desenvolvimento do projeto são:
-* [Draw.io](#drawio) - Ferramenta de criação de diagramas
+* [Lucidchart](#lucidchart) - Ferramenta de criação de diagramas
 * [Wordpress](#wordpress) - Ferramenta de criação de sites
 * [Figma](#figma) - Ferramenta de criação de interfaces
   
@@ -44,9 +26,9 @@ As tecnologias utilizadas no desenvolvimento do projeto são:
 
 Git é um sistema de controle de versão. Ele é responsável por gerenciar as versões do projeto, além de permitir o trabalho em equipe.
 
-### [Draw.io](#tabela-de-conteúdos)
+### [Lucidchart](#tabela-de-conteúdos)
 
-Draw.io é uma ferramenta de criação de diagramas. Ele é responsável por criar os diagramas do projeto.
+Lucidchart é um aplicativo de diagramação baseado na web que permite aos usuários colaborar visualmente no desenho, revisão e compartilhamento de gráficos e diagramas e melhorar processos, sistemas e estruturas organizacionais.
 
 ### [Wordpress](#tabela-de-conteúdos)
 

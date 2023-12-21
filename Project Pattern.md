@@ -37,7 +37,7 @@ Esta seção lista as tecnologias utilizadas no projeto:
 As tecnologias utilizadas no desenvolvimento do projeto são:
 * [Draw.io](#drawio) - Ferramenta de criação de diagramas
 * [Wordpress](#wordpress) - Ferramenta de criação de sites
-* 
+  
 ### [Git/GitHub](#tabela-de-conteúdos)
 
 Git é um sistema de controle de versão. Ele é responsável por gerenciar as versões do projeto, além de permitir o trabalho em equipe.

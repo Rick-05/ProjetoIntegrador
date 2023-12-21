@@ -19,6 +19,7 @@ Este arquivo lista informações sobre a estrutura e tecnologias utilizadas no p
         - [Draw.io](#drawio)
         - [BR Modelo](#br-modelo)
         - [Figma](#figma)
+        - [Wordpress](#wordpress)
 
 # [Estrutura do Projeto](#tabela-de-conteúdos)
 

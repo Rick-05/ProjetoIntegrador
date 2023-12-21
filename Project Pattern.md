@@ -91,3 +91,7 @@ BR Modelo é uma ferramenta de criação de modelos de dados. Ele é responsáve
 ### [Figma](#tabela-de-conteúdos)
 
 Figma é uma ferramenta de criação de interfaces. Ele é responsável por criar as interfaces do projeto.
+
+### [Wordpress](#tabela-de-conteúdos)
+
+WordPress é um sistema livre e aberto de gestão de conteúdo para internet, baseado em PHP com banco de dados MySQL, executado em um servidor interpretador, voltado principalmente para a criação de páginas eletrônicas e blogs online.

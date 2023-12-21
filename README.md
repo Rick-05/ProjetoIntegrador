@@ -6,15 +6,10 @@ Pensando nas dificuldades enfrentadas por muitos docentes do IFPA - campus Belé
 
 Este projeto foi desenvolvido com as seguintes tecnologias e framework:
 
-- **PHP**
-
-- **HTML**
-
-- **CSS**
-
-- **MySQL**
-
-- **JavaScript**
+- **Git/Github**
+- **Lucidchart**
+- **Wordpress**
+- **Figma**
 
 E visa ensinar os docentes do IFPA - campus Belém a utilizar tecnologias digitais voltadas ao ensino.
 
@@ -24,6 +19,10 @@ Docentes do IFPA - campus Belém
 ## Funcionalidades Principais
 
 - **Tutoriais:** Demonstrar como utilizar certos aplicativos, além de dar dicas auxiliares.
+
+## Matérias Utilizadas
+- **IHC**
+- **ADS**
 
 ## Equipe
 

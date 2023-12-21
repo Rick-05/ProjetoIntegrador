@@ -38,6 +38,7 @@ Esta seção lista as tecnologias utilizadas no projeto:
 As tecnologias utilizadas no desenvolvimento do projeto são:
 * [Draw.io](#drawio) - Ferramenta de criação de diagramas
 * [Wordpress](#wordpress) - Ferramenta de criação de sites
+* [Figma](#figma) - Ferramenta de criação de interfaces
   
 ### [Git/GitHub](#tabela-de-conteúdos)
 

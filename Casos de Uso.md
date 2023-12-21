@@ -93,7 +93,7 @@ Os casos de uso são utilizados para especificar as tarefas e os atores envolvid
 
 ### [[UC-02] Feedback do Usuário](#tabela-de-conteúdos)
 
-![Diagrama de Atividades - UC-02](/Diagrama/Comentario.png "Diagrama de Comentar")
+![Diagrama de Atividades - UC-02](/Diagramas/Comentario.png "Diagrama de Comentar")
 
 <table>
   <tr>

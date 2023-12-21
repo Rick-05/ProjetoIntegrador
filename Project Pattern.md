@@ -13,7 +13,8 @@ Este arquivo lista informações sobre a estrutura e tecnologias utilizadas no p
     - [Desenvolvimento](#Desenvolvimeto)
         - [Draw.io](#drawio)
         - [Wordpress](#wordpress)
-
+        - [Figma](#figma)
+          
 # [Estrutura do Projeto](#tabela-de-conteúdos)
 
 ![Estrutura do Projeto]
@@ -49,3 +50,7 @@ Draw.io é uma ferramenta de criação de diagramas. Ele é responsável por cri
 ### [Wordpress](#tabela-de-conteúdos)
 
 WordPress é um sistema livre e aberto de gestão de conteúdo para internet, baseado em PHP com banco de dados MySQL, executado em um servidor interpretador, voltado principalmente para a criação de páginas eletrônicas e blogs online.
+
+### [Figma](#tabela-de-conteúdos)
+
+Figma é uma ferramenta de criação de interfaces. Ele é responsável por criar as interfaces do projeto.
